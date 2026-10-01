@@ -1,0 +1,11 @@
+user_id,event_type,content_id,content_title,platform,session_id,search_query
+U001,view,C101,The Last Horizon,Mobile App,S001,
+U002,click,C205,Comedy Nights,Website,S002,
+U003,search,C310,City of Dreams,Mobile App,S003,City of Dreams
+U004,view,C118,Wild Earth,Smart TV,S004,
+U005,click,C422,Champions Live,Website,S005,
+U006,search,C215,The Hidden Truth,Mobile App,S006,thriller series
+U007,view,C101,The Last Horizon,Smart TV,S007,
+U008,click,C330,Music Festival 2026,Mobile App,S008,
+U009,search,C145,Family Stories,Website,S009,family movies
+U010,view,C205,Comedy Nights,Mobile App,S010,
